@@ -1,0 +1,10 @@
+---
+name: PluginName
+author: YourName
+version: 0.0.1
+main: YourName\PluginName\Main
+src-namespace-prefix: YourName\PluginName
+api: 
+- 4.0.0
+description: Create your own PocketMine-MP Plugin Easier with this template.
+...
